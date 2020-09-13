@@ -13,7 +13,7 @@ Essa será uma aplicação que deve permitir a criação de clientes, produtos e
 
 ## Start
 ```js
-    yarn install         // instala dependências
+    yarn                 // instala dependências
     yarn dev:server      // inicia aplicação
     yarn test            // executa os testes
 ```
